@@ -4,11 +4,32 @@
     box-sizing: border-box;
 }
 
+
+.container{
+    width: 1300px;
+    height: 100vh;
+    margin:2rem auto;
+   
+    
+}
+
+
+
 /*Header*/
+header{
+    
+    height: 12vh;
+    background-color: #E579E6;
+}
 
 
 
 /*news*/
+.news{
+    margin-top: 35px;
+    height: 35vh;
+    background-color: #E1D67A;
+}
 
 
 /*content*/
